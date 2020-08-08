@@ -1,2 +1,0 @@
-# Practicum
-For practica
